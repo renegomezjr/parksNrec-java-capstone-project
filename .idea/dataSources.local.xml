@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - ParksNRec@localhost" uuid="a65906d1-8550-44be-b7d7-6da5956240d5">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+    </data-source>
+    <data-source name="MySQL - ParksNRec_Test@localhost" uuid="230abad8-1b2d-4be0-8317-c135bb41f04d">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>ParksNRec_Test.*</schema-pattern>
+      <default-schemas>ParksNRec_Test.*</default-schemas>
+    </data-source>
+  </component>
+</project>
